@@ -1,0 +1,171 @@
+1617164042216	geckodriver	INFO	Listening on 127.0.0.1:35823
+1617164043127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewGDky4"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617164051248	Marionette	INFO	Listening on port 32957
+1617164051345	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1617164071407	Marionette	INFO	Stopped listening on port 32957
+1617164114767	geckodriver	INFO	Listening on 127.0.0.1:47049
+1617164114792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehqLrK9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617164120024	Marionette	INFO	Listening on port 45047
+1617164120325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1617164128131	Marionette	INFO	Stopped listening on port 45047
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-K64KDGG, line 218: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://dosrg0qttcg52.cloudfront.net/js/jquery-3.3.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1617164142878	geckodriver	INFO	Listening on 127.0.0.1:52851
+1617164142884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO7uqM3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617164147541	Marionette	INFO	Listening on port 41315
+1617164147597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617164204490	Marionette	INFO	Stopped listening on port 41315
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1617164537574	geckodriver	INFO	Listening on 127.0.0.1:44269
+1617164537580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTNxW8N"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617164542408	Marionette	INFO	Listening on port 45287
+1617164542492	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617165329562	Marionette	INFO	Stopped listening on port 45287
+1617165343675	geckodriver	INFO	Listening on 127.0.0.1:36747
+1617165343702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFtd5NW"
+1617165391364	geckodriver	INFO	Listening on 127.0.0.1:60059
+1617165391371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefESyQZ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617165398431	Marionette	INFO	Listening on port 40681
+1617165398489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617165453940	Marionette	INFO	Stopped listening on port 40681
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1617165781669	geckodriver	INFO	Listening on 127.0.0.1:41209
+1617165781684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEmzyb1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617165789449	Marionette	INFO	Listening on port 33813
+1617165789510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617165803982	Marionette	INFO	Stopped listening on port 33813
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1617168419528	geckodriver	INFO	Listening on 127.0.0.1:47057
+1617168420473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYYavBL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617168431504	Marionette	INFO	Listening on port 38667
+1617168431612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617168490967	Marionette	INFO	Stopped listening on port 38667
+1617434857372	geckodriver	INFO	Listening on 127.0.0.1:38781
+1617434857380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecNMHcD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617434865261	Marionette	INFO	Listening on port 41555
+1617434865297	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617435065136	geckodriver	INFO	Listening on 127.0.0.1:60351
+1617435065527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3SGn6o"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617435071941	Marionette	INFO	Listening on port 37705
+1617435072044	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1617435230608	geckodriver	INFO	Listening on 127.0.0.1:48407
+1617435230615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile63sNuL"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617435236605	Marionette	INFO	Listening on port 35023
+1617435236630	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1617435432998	geckodriver	INFO	Listening on 127.0.0.1:42187
+1617435433003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelDbU60"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617435440134	Marionette	INFO	Listening on port 42343
+1617435440220	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617436416188	geckodriver	INFO	Listening on 127.0.0.1:34285
+1617436416193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU4B2qQ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617436423397	Marionette	INFO	Listening on port 40053
+1617436423421	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1617436449373	geckodriver	INFO	Listening on 127.0.0.1:46517
+1617436449385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLgxzTI"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617436457243	Marionette	INFO	Listening on port 37987
+1617436457320	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1617436726495	geckodriver	INFO	Listening on 127.0.0.1:56005
+1617436726500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXPoBiO"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617436734182	Marionette	INFO	Listening on port 40467
+1617436734246	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1617436812879	geckodriver	INFO	Listening on 127.0.0.1:57777
+1617436813071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAR5bSq"
+*** You are running in headless mode.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617436823711	Marionette	INFO	Listening on port 43967
+1617436823717	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1617436924011	geckodriver	INFO	Listening on 127.0.0.1:33881
+1617436924023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler49DLH"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617436935566	Marionette	INFO	Listening on port 42369
+1617436935622	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1617437004870	geckodriver	INFO	Listening on 127.0.0.1:47143
+1617437005342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4abUn"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617437039664	Marionette	INFO	Listening on port 39389
+1617437039786	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1617437072711	Marionette	INFO	Stopped listening on port 39389
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-Ryrp1v/firefox-81.0+build2/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1792","resource:///modules/BrowserGlue.jsm:BG_observe:946","chrome://browser/content/browser.js:_delayedStartup:2108"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-Ryrp1v/firefox-81.0+build2/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1792","resource:///modules/BrowserGlue.jsm:BG_observe:946","chrome://browser/content/browser.js:_delayedStartup:2108"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-Ryrp1v/firefox-81.0+build2/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1792","resource:///modules/BrowserGlue.jsm:BG_observe:946","chrome://browser/content/browser.js:_delayedStartup:2108"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-Ryrp1v/firefox-81.0+build2/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1792","resource:///modules/BrowserGlue.jsm:BG_observe:946","chrome://browser/content/browser.js:_delayedStartup:2108"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-Ryrp1v/firefox-81.0+build2/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1792","resource:///modules/BrowserGlue.jsm:BG_observe:946","chrome://browser/content/browser.js:_delayedStartup:2108"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-Ryrp1v/firefox-81.0+build2/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1792","resource:///modules/BrowserGlue.jsm:BG_observe:946","chrome://browser/content/browser.js:_delayedStartup:2108"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-Ryrp1v/firefox-81.0+build2/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1792","resource:///modules/BrowserGlue.jsm:BG_observe:946","chrome://browser/content/browser.js:_delayedStartup:2108"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1617449743720	Marionette	INFO	Stopped listening on port 37987
+1617449744520	Marionette	INFO	Stopped listening on port 42369
+1617449744574	Marionette	INFO	Stopped listening on port 40467
+1617449744797	Marionette	INFO	Stopped listening on port 43967
+1617449744873	Marionette	INFO	Stopped listening on port 35023
+1617449744998	Marionette	INFO	Stopped listening on port 40053
+1617449745215	Marionette	INFO	Stopped listening on port 37705
+1617449745218	Marionette	INFO	Stopped listening on port 42343

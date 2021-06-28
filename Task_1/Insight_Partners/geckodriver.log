@@ -1,0 +1,37 @@
+1617429461410	geckodriver	INFO	Listening on 127.0.0.1:45115
+1617429462355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7Gz0AD"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+1617429514130	geckodriver	INFO	Listening on 127.0.0.1:46349
+1617429514135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1spRSd"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617429518839	Marionette	INFO	Listening on port 40721
+1617429518849	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617429636880	geckodriver	INFO	Listening on 127.0.0.1:47557
+1617429636884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledMGFmc"
+*** You are running in headless mode.
+Exiting due to channel error.
+1617429642304	geckodriver	INFO	Listening on 127.0.0.1:50253
+1617429642309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegzBrdZ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1617429646607	Marionette	INFO	Listening on port 41445
+1617429646625	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"progress":{}},"filename":"/build/firefox-Ryrp1v/firefox-81.0+build2/toolkit/components/places/Database.cpp","lineNumber":489,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","resource://gre/modules/PlacesUtils.jsm:null:1934","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/PageThumbs.jsm:PageThumbs_init:116","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1792","resource:///modules/BrowserGlue.jsm:BG_observe:946","chrome://browser/content/browser.js:_delayedStartup:2108"]},{"name":"Sqlite.jsm shutdown blocker","state":{"description":"Waiting for connections to close","state":[{"name":"protections.sqlite#0: waiting for shutdown","state":{"identifier":"protections.sqlite#0","isCloseRequested":false,"hasDbConn":true,"hasInProgressTransaction":false,"pendingStatements":1,"statementCounter":3},"filename":"resource://gre/modules/Sqlite.jsm","lineNumber":293,"stack":["resource://gre/modules/Sqlite.jsm:ConnectionData:293","resource://gre/modules/Sqlite.jsm:OpenedConnection:1310","resource://gre/modules/Sqlite.jsm:openConnection/</<:1106"]}]},"filename":"resource://gre/modules/Sqlite.jsm","lineNumber":170,"stack":["resource://gre/modules/Sqlite.jsm:null:170","resource://gre/modules/XPCOMUtils.jsm:get:58","resource://gre/modules/Sqlite.jsm:ConnectionData:293","resource://gre/modules/Sqlite.jsm:OpenedConnection:1310","resource://gre/modules/Sqlite.jsm:openConnection/</<:1106"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"protections.sqlite#0: waiting for shutdown","state":{"identifier":"protections.sqlite#0","isCloseRequested":false,"hasDbConn":true,"hasInProgressTransaction":false,"pendingStatements":1,"statementCounter":3},"filename":"resource://gre/modules/Sqlite.jsm","lineNumber":293,"stack":["resource://gre/modules/Sqlite.jsm:ConnectionData:293","resource://gre/modules/Sqlite.jsm:OpenedConnection:1310","resource://gre/modules/Sqlite.jsm:openConnection/</<:1106"]}] Barrier: Sqlite.jsm: wait until all connections are closed
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1617449744870	Marionette	INFO	Stopped listening on port 41445
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
